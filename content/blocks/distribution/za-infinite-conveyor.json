@@ -6,7 +6,9 @@
     "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+     "copper/65575840",
+     "lead/65575840",
+     "titanium/65575840"
     ],
     "speed": 2147483647,
     "displayedSpeed": "2147483647",
