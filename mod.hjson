@@ -1,0 +1,8 @@
+name: "tonic-ideas-vault"
+displayName: "Tonic's Idea Vault"
+author: "TonicTech"
+description: "A Sandbox Utility Mindustry Mod"
+version: "1.0"
+minGameVersion: "145"
+dependencies: [ ]
+hidden: false
