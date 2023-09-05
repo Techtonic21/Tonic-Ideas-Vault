@@ -2,7 +2,7 @@
     "type": "Conveyor",
     "name": "Infinite Conveyor"
     "category": "distribution",
-    "health": 600,
+    "health": 2147483647,
     "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
