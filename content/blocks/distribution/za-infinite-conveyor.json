@@ -5,6 +5,7 @@
     "health": 2147483647,
     "size": 1,
     "alwaysUnlocked": true,
+    "buildVisibility": "sandboxOnly",
     "requirements": [
      "copper/65575840",
      "lead/65575840",
