@@ -8,8 +8,7 @@
     "requirements": [
      "copper/6"
     ],
-
-    speed: 2147483647,
-    displayedSpeed: "Infinite",
-    scaledHealth: 2147483647,
+    "speed": 2147483647,
+    "displayedSpeed": "Infinite",
+    "scaledHealth": 2147483647,
 }
