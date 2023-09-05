@@ -1,16 +1,11 @@
 {
     "type": "Conveyor",
-    "name": "Infinite Conveyor"
     "category": "distribution",
-    "health": 2147483647,
-    "size": 1,
-    "alwaysUnlocked": true,
+    "name": "Infinite Conveyor"
+    "description": "A conveyor that transfers items at near-infinite speeds.\nSandbox only.",
     "buildVisibility": "sandboxOnly",
-    "requirements": [
-     "copper/65575840",
-     "lead/65575840",
-     "titanium/65575840"
-    ],
+    "size": 1,
+    "health": 2147483647,
     "speed": 2147483647,
     "displayedSpeed": "2147483647",
     "scaledHealth": 2147483647,
